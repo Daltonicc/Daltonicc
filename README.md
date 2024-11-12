@@ -34,5 +34,3 @@ Welcome to my GitHub profile! Here, you'll find information about my background,
 ---
 
 Thank you for visiting my profile! 😊
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
