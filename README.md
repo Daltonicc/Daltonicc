@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Daltonicc/Daltonicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here, you'll find information about my background, experiences, and current projects. Feel free to reach out if you have any questions or are interested in collaborating!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work Experience
+
+### Software Engineer, iOS  
+**KarrotPay(당근페이)** — September 2024 to Present  
+- Part of the Money Service Team, working on innovative solutions for payment services.
+
+
+
+### iOS Developer  
+**Watcha(왓챠)** — May 2022 to September 2024  
+- Developed and maintained features for the iOS platform, focusing on user experience and performance optimization.
+
+---
+
+## 🧑‍🎓 Education
+
+- **Master's Degree in Computer Software**  
+  **Yonsei University** — March 2024 to February 2026 (Expected)
+
+- **Bachelor's Degree in History**  
+  **Pusan National University** — March 2013 to February 2017
+
+---
+
+## 📫 Get in Touch!
+
+- **Email**: ethanpark604@gmail.com
+- **LinkedIn**: [Geunbo (Ethan) Park](https://www.linkedin.com/in/geunbo-ethan-park-925266230/)
+
+---
+
+Thank you for visiting my profile! 😊
+
