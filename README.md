@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here, you'll find information about my background,
 
 ### Software Engineer, iOS  
 **KarrotPay(당근페이)** — September 2024 to Present  
-- Part of the Money Service Team, working on innovative solutions for payment services.
+- Part of the Money Service Team, working on innovative solutions for money services.
 
 
 
