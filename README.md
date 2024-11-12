@@ -7,13 +7,11 @@ Welcome to my GitHub profile! Here, you'll find information about my background,
 ## 💼 Work Experience
 
 ### Software Engineer, iOS  
-**KarrotPay(당근페이)** — September 2024 to Present  
+**KarrotPay (당근페이)** — September 2024 to Present  
 - Part of the Money Service Team, working on innovative solutions for money services.
 
-
-
 ### iOS Developer  
-**Watcha(왓챠)** — May 2022 to September 2024  
+**Watcha (왓챠)** — May 2022 to September 2024  
 - Developed and maintained features for the iOS platform, focusing on user experience and performance optimization.
 
 ---
@@ -37,3 +35,4 @@ Welcome to my GitHub profile! Here, you'll find information about my background,
 
 Thank you for visiting my profile! 😊
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
